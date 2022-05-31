@@ -10,10 +10,7 @@ phoneRegex = re.compile(r'''
 #TODO: Create a regex for email addresses
 
 
-#TODO: Get the text off the clipboard
 
-
-#
 
 
 
