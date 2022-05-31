@@ -3,7 +3,7 @@
 print('Hi there!')
 print('What is your name?')
 myName = input()
-greet
+gre
 
 
 def greet_user(myName):
