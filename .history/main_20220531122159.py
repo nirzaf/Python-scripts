@@ -1,4 +1,4 @@
 
 message  = input (">")
-message.split(' ')
 
+message.split()

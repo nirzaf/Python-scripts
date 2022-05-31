@@ -1,4 +1,5 @@
 
 message  = input (">")
+
 message.split(' ')
 
