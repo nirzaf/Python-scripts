@@ -33,7 +33,6 @@ extractedEmail = emailRegex.findall(text)
 
 allPhoneNumbers = []
 for phoneNumber in extractedPhone:
-    allPhoneNumbers.append(phoneNumber[0])
     
 
 
