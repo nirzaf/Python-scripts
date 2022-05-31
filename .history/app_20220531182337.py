@@ -6,4 +6,3 @@ import re, pyperclip
 
 
 
-
