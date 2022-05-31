@@ -5,4 +5,4 @@ def greet_user(myName):
 print('Hi there!')
 print('What is your name?')
 name = input()
-greet_user(name)
+greet_user(myName)

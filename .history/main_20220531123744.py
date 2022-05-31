@@ -1,8 +1,6 @@
-def greet_user(myName):
+def greet_user():
     print('It is nice to meet you, ' + myName)
-
 
 print('Hi there!')
 print('What is your name?')
-name = input()
-greet_user(name)
+myName = input()
