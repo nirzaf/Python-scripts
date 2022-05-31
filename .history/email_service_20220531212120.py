@@ -23,7 +23,7 @@ data = {
 
         {
 
-          "Email": "mfmfazrin1986@gmail.com",
+          "Email": "$RECIPIENT_EMAIL",
 
           "Name": "You"
 
