@@ -35,7 +35,7 @@ data = {
   ]
 }
 
-print (mailJet.send.create(data=data)).status_code
+print (mailjet.send.create(data=data)).status_code
 print (mailjet.send.create(data=data)).json()
 
 
