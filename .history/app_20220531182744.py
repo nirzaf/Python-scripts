@@ -7,7 +7,7 @@ phoneRegex = re.compile(r'''
 # 415-555-0000, 555-0000, (415) 555-0000, 555-0000 ext 12345, ext. 12345, x12345 
 
 #area code (optional)
-#first 
+
 ''', re.VERBOSE)
 
 #TODO: Create a regex for email addresses
