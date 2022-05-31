@@ -17,6 +17,9 @@ phoneRegex = re.compile(r'''
 
 #TODO: Create a regex for email addresses
 emailRegex = re.compile(r'''
+#
+#
+#
 
 
 #TODO: Get the text off the clipboard
