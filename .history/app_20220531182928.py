@@ -6,7 +6,7 @@ import re, pyperclip
 phoneRegex = re.compile(r'''
 # 415-555-0000, 555-0000, (415) 555-0000, 555-0000 ext 12345, ext. 12345, x12345 
 
-(\d\d\d)|(\(\d\d\d))    # area code (optional)
+(\d\d\d)|    # area code (optional)
     # first separator
     # first 3 digits
     # separator
