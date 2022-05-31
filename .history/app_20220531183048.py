@@ -7,7 +7,7 @@ phoneRegex = re.compile(r'''
 # 415-555-0000, 555-0000, (415) 555-0000, 555-0000 ext 12345, ext. 12345, x12345 
 
     (((\d\d\d)|(\(\d\d\d)))?    # area code (optional)
-   \s| # first separator
+   \s # first separator
     # first 3 digits
     # separator
     # last 4 digits
