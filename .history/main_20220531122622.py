@@ -1,7 +1,7 @@
 
 message  = input (">")
 words = message.split(' ')
-#print(words)
+print(words)
 
 emojis = { ":)":"😊"}
 
