@@ -19,8 +19,8 @@ phoneRegex = re.compile(r'''
 emailRegex = re.compile(r'''
 #some.+_thing@(\d{2,5})).com
 # name part
-# @ symbol
-# domain name part
+# @
+
 
 #TODO: Get the text off the clipboard
 

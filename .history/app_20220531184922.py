@@ -22,6 +22,7 @@ emailRegex = re.compile(r'''
 # @ symbol
 # domain name part
 
+
 #TODO: Get the text off the clipboard
 
 
