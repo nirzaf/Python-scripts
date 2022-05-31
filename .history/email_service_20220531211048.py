@@ -1,8 +1,6 @@
 import smtplib
 
-
-#
-
+try
 conn = smtplib.SMTP('in-v3.mailjet.com', 587)
 conn.ehlo()
 conn.starttls()
