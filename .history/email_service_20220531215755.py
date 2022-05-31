@@ -22,9 +22,7 @@ data = {
             ],
             "CC": [
                 {
-                    "Email": "fazrin@quadrate.lk",
-                    "Name": "Fazrin"
-                }
+                    "Email": "fazrin@quadrate.lk
             ],
             "Subject": "My first Mailjet Email!",
             "TextPart": "Greetings from Mailjet!",
