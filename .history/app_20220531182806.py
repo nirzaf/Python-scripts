@@ -9,7 +9,7 @@ phoneRegex = re.compile(r'''
 #area code (optional)
 #first separator
 #first 3 digits
-#sseparator
+
 ''', re.VERBOSE)
 
 #TODO: Create a regex for email addresses
