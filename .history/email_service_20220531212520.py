@@ -16,10 +16,12 @@ data = {
       },
 
       "To": [
+
         {
           "Email": "mfmfazrin1986@gmail.com",
           "Name": "Fazrin"
         }
+
       ],
 
       "Subject": "My first Mailjet Email!",

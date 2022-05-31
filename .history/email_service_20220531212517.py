@@ -10,16 +10,20 @@ mailJet = Client(auth=(api_key, api_secret), version='v3.1')
 data = {
   'Messages': [
     {
+
       "From": {
         "Email": "quadrate.lk@gmail.com",
         "Name": "Quadrate Tech Solutions"
+
       },
 
       "To": [
+
         {
           "Email": "mfmfazrin1986@gmail.com",
           "Name": "Fazrin"
         }
+
       ],
 
       "Subject": "My first Mailjet Email!",
