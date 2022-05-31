@@ -9,6 +9,7 @@ mailjet = Client(auth=(api_key, api_secret), version='v3.1')
 
 data = {
   'Messages': [
+
     {
 
       "From": {
