@@ -5,5 +5,4 @@ print(words)
 
 emojis = { ":)":"😊"}
 
-for word in words:
-    emo
+for
