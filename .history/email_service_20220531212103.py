@@ -13,7 +13,7 @@ data = {
 
       "From": {
 
-        "Email": "quadrate.lk@gmail.com",
+        "Email": "qua",
 
         "Name": "Me"
 
