@@ -10,4 +10,4 @@ try:
     conn.sendmail("quadrate.lk@gmail.com", "mfmfazrin1986@gmail.com", 'Subject: Test...... \n\n This is a sample email')
     conn.quit()
     print("Success: Email sent!")
-except:
+    
