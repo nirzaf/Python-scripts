@@ -40,4 +40,3 @@ for phoneNumber in extractedPhone:
 
 
 
-
