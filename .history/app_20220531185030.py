@@ -32,8 +32,6 @@ extractedPhone = phoneRegex.findall(text)
 extractedEmail = emailRegex.findall(text)
 
 
-
-
 #TODO: Copy the extracted email/phone to the clipboard 
 
 

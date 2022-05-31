@@ -29,8 +29,6 @@ text = pyperclip.paste()
 
 #TODO: Extract the email/phone from this text
 extractedPhone = phoneRegex.findall(text)
-extractedEmail = emailRegex.findall(text)
-
 
 
 
