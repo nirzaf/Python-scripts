@@ -5,7 +5,7 @@ print(words)
 
 emojis = { ":)":"😊"}
 
-output = ""
+out
 
 for word in words:
     emojis.get(word, word)
