@@ -16,7 +16,4 @@ phoneRegex = re.compile(r'''
 #TODO: Extract the email/phone from this text
 
 
-#TODO: Copy the extracted email/phone to the clipboard
-
-
 
