@@ -1,4 +1,4 @@
-def Greet
+def 
 
 print('Hi there!')
 print('What is your name?')
