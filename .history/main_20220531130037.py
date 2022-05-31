@@ -8,6 +8,4 @@ name = input()
 greet_user(name)
 
 def square(number):
-    return number * number
-    
-     
+    return number * number) 

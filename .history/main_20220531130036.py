@@ -7,7 +7,4 @@ print('What is your name?')
 name = input()
 greet_user(name)
 
-def square(number):
-    return number * number
-    
-     
+def square(number) 
