@@ -21,4 +21,4 @@ def even_numbers(numbers):
             even_list.append(number)
     return even_list
 
-print(even_numbers([1, 2, 3, 4, 5, 6, 7, 8, 9])
+even_numbers(numbers)
