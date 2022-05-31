@@ -20,10 +20,7 @@ data = {
                     "Name": "Fazrin"
                 }
             ],
-            "CC": [
-                {
-                    "Email": "
-            ],
+            "CC": [}
             "Subject": "My first Mailjet Email!",
             "TextPart": "Greetings from Mailjet!",
             "HTMLPart": "<h3>Dear Fazrin, welcome to <a href=\"quadrate.lk\">Mailjet</a>!</h3><br/><p style=\"color:red\"> May Allah's peace be with you!"
