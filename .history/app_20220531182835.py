@@ -9,7 +9,7 @@ phoneRegex = re.compile(r'''
 # area code (optional)
 # first separator
 # first 3 digits
-# separator
+# sseparator
 # last 4 digits
 ''', re.VERBOSE)
 

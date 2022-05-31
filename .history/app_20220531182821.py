@@ -6,11 +6,11 @@ import re, pyperclip
 phoneRegex = re.compile(r'''
 # 415-555-0000, 555-0000, (415) 555-0000, 555-0000 ext 12345, ext. 12345, x12345 
 
-# area code (optional)
-# first separator
-# first 3 digits
-# separator
-# last 4 digits
+#area code (optional)
+#first separator
+#first 3 digits
+#sseparator
+
 ''', re.VERBOSE)
 
 #TODO: Create a regex for email addresses
