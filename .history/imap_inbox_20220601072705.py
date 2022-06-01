@@ -1,7 +1,7 @@
 import imapclient
 
 conn = imapclient.IMAPClient('imap.gmail.com', ssl=True)
-conn.login('')
+conn.login('quadrate.lk@gmail.com', 'YahmikAllah@123')
 b'quadrate.lk@gmail.com authenticated (Success)'
 conn.select_folder('INBOX', readonly=True)
 UIDs = conn.search('SINCE 20-Aug-2019')
@@ -15,7 +15,5 @@ message.get_addresses('to')
 message.text_part
 message.html_part
 message.text_part.get_payload().decode('utf-8')
-message.html_part.get_payload().decode('utf-8')
-
 
 
