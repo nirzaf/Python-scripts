@@ -1,6 +1,6 @@
 from mailjet_rest import Client
 
-api_key = "037e5d87d179e6bfdf0ba7b5c8a979bc@123"
+api_key = "037e5d87d179e6bfdf0ba7b5c8a979bc"
 
 api_secret = "fe26f25639812684059fd12839a10d05@123"
 
