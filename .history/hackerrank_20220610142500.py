@@ -16,8 +16,4 @@
 # 1 ≤ number of arguments for the function ≤ 100
 # -100 ≤ value of passed arguments ≤ 100
 
-def avg():
-    args = []
-    for i in range(0, int(input())):
-        args.append(int(input()))
-    return sum(args) / len(args)
+def avg();
